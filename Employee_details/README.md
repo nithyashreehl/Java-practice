@@ -1,1 +1,1 @@
-
+Develop a Java program to create a class Employee with members Employee ID, Name, and Salary. Include methods to accept and display employee details. Create multiple employee objects and display their information.
