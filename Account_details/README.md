@@ -1,1 +1,1 @@
-
+Develop a Java program to create a class BankAccount with members Account Number, Account Holder Name, and Balance. Include methods to accept and display account details. Create multiple bank account objects.
