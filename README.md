@@ -1,2 +1,2 @@
-# Java-practice
- OOPs in Java practice programs done in lab 
+# LAB Programs 
+This repository contains the screenshots of programs and their outputs completed during lab sessions.
